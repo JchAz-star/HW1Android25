@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW1Android25</string>
+    <string-array name="spinner_items">
+        <item>CenyimetersToMeters</item>
+        <item>MetersToKiloMeters</item>
+        <item>CelsiusToFarenheit</item>
+        <item>FarenheitToCelsius</item>
+        <item>GramsToKiolgrams</item>
+    </string-array>
+
+</resources>
